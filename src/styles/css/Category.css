@@ -1,0 +1,16 @@
+.Category {
+    position: absolute;
+    width: 100%;
+    top: 160px;
+    left: 0px;
+}
+
+.List .List-Name {
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.List hr {
+    border-top: 1.2px dotted #bbb;   
+}
