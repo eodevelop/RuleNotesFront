@@ -4,7 +4,7 @@ import '../styles/css/Category.css'
 function Category(props) {
     return (
         <div className="Category">
-            <div className="List">
+            <div className="List Pick">
                 <p className="List-Name"> 트레드링스</p>
                 <hr/>
             </div>

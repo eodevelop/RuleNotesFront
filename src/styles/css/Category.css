@@ -1,16 +1,27 @@
 .Category {
-    position: absolute;
     width: 100%;
     top: 160px;
     left: 0px;
+    float: left;
 }
 
 .List .List-Name {
+    margin-top: 20px;
     padding-left: 15px;
     font-size: 14px;
     font-weight: bold;
 }
 
+.List .List-Name:hover {
+    color: #03a9f4;
+}
+
+.Pick {
+    color: #03a9f4;;
+}
+
 .List hr {
+    width: auto;
+    margin-top: 20px;
     border-top: 1.2px dotted #bbb;   
 }
